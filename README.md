@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @naseefameer
-- 👀 I’m interested in web development and new technology oriented things.
-- 🌱 I’m currently working as a software engineer
-- 💞️ I’m looking to gain more exposure in developement field and loves to code.
-- 📫 Contact me through naseef.669@gmail.com
+# 👋 Hi, I'm Naseef Ameer  
 
-<!---
-naseefameer/naseefameer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **PHP & Laravel Developer | Cloud & API Specialist | SaaS & ERP Enthusiast**  
+
+I’m a passionate software developer with expertise in **Laravel, CodeIgniter, JavaScript, AWS, and REST APIs**. My experience spans **large-scale applications, cloud-based solutions, payment gateway integrations, and enterprise software**.  
+
+---
+
+## 🔥 Tech Stack & Skills:
+- **Backend:** Laravel (including Laravel 12, Spatie, Cashier), CodeIgniter, Core PHP, Wordpress  
+- **Frontend:** JavaScript, Jquery, API Integrations, Google Tag Manager & Analytics  
+- **Cloud & DevOps:** AWS (RDS, S3), Apache, Ubuntu  
+- **Enterprise Software:** CRM, ERP, MLM, Cloud-based Aged Care & Retirement Living Solutions  
+- **Database:** MySQL, PostgreSQL  
+- **Mobile Backend:** Laravel-powered APIs for mobile apps  
+
+---
+
+## 🌟 What I’m Working On:
+🔹 **Scaling large data applications** for high-performance growth  
+🔹 **Building cloud-based software** for Aged Care & Retirement Living  
+🔹 **Exploring Python & Machine Learning** for future innovations  
+
+---
+
+## 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+---
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House  
+
+---
